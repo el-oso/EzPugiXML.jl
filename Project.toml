@@ -1,0 +1,13 @@
+name = "EzPugiXML"
+uuid = "6325bd52-821e-4289-80ee-e4fe5503403d"
+authors = ["Jorge Alberto Vieyra Salas <ursus.est@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
